@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Actifydemo/static/css/main.1f180b85.css",
+    "main.js": "/Actifydemo/static/js/main.98e023aa.js",
+    "static/js/488.e7ac27ae.chunk.js": "/Actifydemo/static/js/488.e7ac27ae.chunk.js",
+    "index.html": "/Actifydemo/index.html",
+    "main.1f180b85.css.map": "/Actifydemo/static/css/main.1f180b85.css.map",
+    "main.98e023aa.js.map": "/Actifydemo/static/js/main.98e023aa.js.map",
+    "488.e7ac27ae.chunk.js.map": "/Actifydemo/static/js/488.e7ac27ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f180b85.css",
+    "static/js/main.98e023aa.js"
+  ]
+}
